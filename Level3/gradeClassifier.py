@@ -1,0 +1,1 @@
+# user_score = int(input("Enter the score:"))
